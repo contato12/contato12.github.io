@@ -18,15 +18,11 @@
 .banner .content {
   position: relative;
   z-index: 1;
-  max-width: 100%;
   margin: 0 auto;
 }
 
 .banner .content img{
-  position: relative;
   z-index: 2;
-  margin: 0 auto;
-  text-align: center;
 }
 
 @media only screen and (max-width: 768px) {
