@@ -12,6 +12,4 @@ main {
   height: 100%;
   z-index: -100;
   pointer-events: none;
-  /*background: url(background.png) no-repeat center;
-  background-size: cover;*/
 }
