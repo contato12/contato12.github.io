@@ -14,7 +14,7 @@ body {
 }
 
 .banner video {
-  position: fixed;
+  width: 50;
 }
 
 .banner .content {
