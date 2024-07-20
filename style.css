@@ -4,6 +4,7 @@ main {
 
 .bg_video {
   position: absolute;
+  overflow: hidden;
   right: 0;
   bottom: 0;
   min-width: 100%;
