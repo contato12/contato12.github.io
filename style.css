@@ -17,4 +17,5 @@ main {
 
 .convite {
   position: relative;
+  z-index: 1;
 }
