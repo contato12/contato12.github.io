@@ -18,11 +18,11 @@ main video {
   left: 0;
   object-fit: cover;
   width: 100%;
+  z-index: -1;
 }
 
 main img {
   position: relative;
-  z-index: 1;
   max-width: 100px;
   margin: 0 auto;
 }
