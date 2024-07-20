@@ -21,7 +21,9 @@ main video {
   width: 100%;
 }
 
-main section {
+main img {
   position: relative;
   z-index: 1;
+  max-width: 100px;
+  margin: 0 auto;
 }
