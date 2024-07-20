@@ -5,6 +5,8 @@ main {
 .bg_video {
   position: absolute;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
   right: 0;
   bottom: 0;
   min-width: 100%;
