@@ -19,10 +19,10 @@ main video {
     width: 100%;
 }
 
-main img {
+main img, image {
     position: absolute;
     z-index: 1;
-}
+}   
 
 @media only screen and (max-width: 800px) {
 
