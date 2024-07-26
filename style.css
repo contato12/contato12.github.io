@@ -19,7 +19,7 @@ main video {
     width: 100%;
 }
 
-a {
+a { /*Remover highlight*/
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     -webkit-tap-highlight-color: transparent;
     -webkit-user-select: none;
